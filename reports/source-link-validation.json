@@ -1,0 +1,297 @@
+[
+  {
+    "url": "https://docs.kalshi.com/api-reference/events/get-event",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/api-reference/events/get-event"
+  },
+  {
+    "url": "https://docs.kalshi.com/api-reference/events/get-event-fee-changes",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/api-reference/events/get-event-fee-changes"
+  },
+  {
+    "url": "https://docs.kalshi.com/api-reference/events/get-events",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/api-reference/events/get-events"
+  },
+  {
+    "url": "https://docs.kalshi.com/api-reference/exchange/get-series-fee-changes",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/api-reference/exchange/get-series-fee-changes"
+  },
+  {
+    "url": "https://docs.kalshi.com/api-reference/exchange/get-user-data-timestamp",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/api-reference/exchange/get-user-data-timestamp"
+  },
+  {
+    "url": "https://docs.kalshi.com/api-reference/market/get-market-candlesticks",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/api-reference/market/get-market-candlesticks"
+  },
+  {
+    "url": "https://docs.kalshi.com/api-reference/market/get-markets",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/api-reference/market/get-markets"
+  },
+  {
+    "url": "https://docs.kalshi.com/api-reference/market/get-series",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/api-reference/market/get-series"
+  },
+  {
+    "url": "https://docs.kalshi.com/api-reference/orders/amend-order-v2",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/api-reference/orders/amend-order-v2"
+  },
+  {
+    "url": "https://docs.kalshi.com/api-reference/orders/cancel-order-v2",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/api-reference/orders/cancel-order-v2"
+  },
+  {
+    "url": "https://docs.kalshi.com/api-reference/orders/create-order-v2",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/api-reference/orders/create-order-v2"
+  },
+  {
+    "url": "https://docs.kalshi.com/api-reference/orders/decrease-order-v2",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/api-reference/orders/decrease-order-v2"
+  },
+  {
+    "url": "https://docs.kalshi.com/api-reference/orders/get-queue-positions-for-orders",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/api-reference/orders/get-queue-positions-for-orders"
+  },
+  {
+    "url": "https://docs.kalshi.com/api-reference/portfolio/get-balance",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/api-reference/portfolio/get-balance"
+  },
+  {
+    "url": "https://docs.kalshi.com/asyncapi.yaml",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/asyncapi.yaml"
+  },
+  {
+    "url": "https://docs.kalshi.com/getting_started/api_environments",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/getting_started/api_environments"
+  },
+  {
+    "url": "https://docs.kalshi.com/getting_started/exchange_sharding",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/getting_started/exchange_sharding"
+  },
+  {
+    "url": "https://docs.kalshi.com/getting_started/fee_rounding",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/getting_started/fee_rounding"
+  },
+  {
+    "url": "https://docs.kalshi.com/getting_started/fixed_point_migration",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/getting_started/fixed_point_migration"
+  },
+  {
+    "url": "https://docs.kalshi.com/getting_started/historical_data",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/getting_started/historical_data"
+  },
+  {
+    "url": "https://docs.kalshi.com/getting_started/market_lifecycle",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/getting_started/market_lifecycle"
+  },
+  {
+    "url": "https://docs.kalshi.com/getting_started/market_settlement",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/getting_started/market_settlement"
+  },
+  {
+    "url": "https://docs.kalshi.com/getting_started/order_direction",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/getting_started/order_direction"
+  },
+  {
+    "url": "https://docs.kalshi.com/getting_started/orderbook_responses",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/getting_started/orderbook_responses"
+  },
+  {
+    "url": "https://docs.kalshi.com/getting_started/pagination",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/getting_started/pagination"
+  },
+  {
+    "url": "https://docs.kalshi.com/getting_started/quick_start_authenticated_requests",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/getting_started/quick_start_authenticated_requests"
+  },
+  {
+    "url": "https://docs.kalshi.com/getting_started/quick_start_market_data",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/getting_started/quick_start_market_data"
+  },
+  {
+    "url": "https://docs.kalshi.com/getting_started/quick_start_websockets",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/getting_started/quick_start_websockets"
+  },
+  {
+    "url": "https://docs.kalshi.com/getting_started/rate_limits",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/getting_started/rate_limits"
+  },
+  {
+    "url": "https://docs.kalshi.com/openapi.yaml",
+    "http_status": 200,
+    "final_url": "https://docs.kalshi.com/openapi.yaml"
+  },
+  {
+    "url": "https://docs.polymarket.com/api-reference/geoblock",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/api-reference/geoblock"
+  },
+  {
+    "url": "https://docs.polymarket.com/api-reference/rate-limits",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/api-reference/rate-limits"
+  },
+  {
+    "url": "https://docs.polymarket.com/api-reference/trade/post-a-new-order",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/api-reference/trade/post-a-new-order"
+  },
+  {
+    "url": "https://docs.polymarket.com/api-reference/trading-rate-limits",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/api-reference/trading-rate-limits"
+  },
+  {
+    "url": "https://docs.polymarket.com/api-spec/clob-openapi.yaml",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/api-spec/clob-openapi.yaml"
+  },
+  {
+    "url": "https://docs.polymarket.com/api-spec/data-openapi.yaml",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/api-spec/data-openapi.yaml"
+  },
+  {
+    "url": "https://docs.polymarket.com/api-spec/gamma-openapi.yaml",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/api-spec/gamma-openapi.yaml"
+  },
+  {
+    "url": "https://docs.polymarket.com/changelog/predictions",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/changelog/predictions"
+  },
+  {
+    "url": "https://docs.polymarket.com/concepts/markets-events",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/concepts/markets-events"
+  },
+  {
+    "url": "https://docs.polymarket.com/concepts/negative-risk",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/concepts/negative-risk"
+  },
+  {
+    "url": "https://docs.polymarket.com/concepts/order-lifecycle",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/concepts/order-lifecycle"
+  },
+  {
+    "url": "https://docs.polymarket.com/concepts/pusd",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/concepts/pusd"
+  },
+  {
+    "url": "https://docs.polymarket.com/getting-started/api",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/getting-started/api"
+  },
+  {
+    "url": "https://docs.polymarket.com/getting-started/migrate-from-previous-sdks",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/getting-started/migrate-from-previous-sdks"
+  },
+  {
+    "url": "https://docs.polymarket.com/getting-started/python",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/getting-started/python"
+  },
+  {
+    "url": "https://docs.polymarket.com/market-data/discover-markets",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/market-data/discover-markets"
+  },
+  {
+    "url": "https://docs.polymarket.com/market-data/prices-order-books",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/market-data/prices-order-books"
+  },
+  {
+    "url": "https://docs.polymarket.com/market-data/realtime-data",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/market-data/realtime-data"
+  },
+  {
+    "url": "https://docs.polymarket.com/resources/contracts",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/resources/contracts"
+  },
+  {
+    "url": "https://docs.polymarket.com/resources/error-codes",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/resources/error-codes"
+  },
+  {
+    "url": "https://docs.polymarket.com/trading/fees",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/trading/fees"
+  },
+  {
+    "url": "https://docs.polymarket.com/trading/manage-orders",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/trading/manage-orders"
+  },
+  {
+    "url": "https://docs.polymarket.com/trading/matching-engine",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/trading/matching-engine"
+  },
+  {
+    "url": "https://docs.polymarket.com/trading/place-orders",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/trading/place-orders"
+  },
+  {
+    "url": "https://docs.polymarket.com/trading/positions/manage",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/trading/positions/manage"
+  },
+  {
+    "url": "https://docs.polymarket.com/trading/realtime-order-updates",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/trading/realtime-order-updates"
+  },
+  {
+    "url": "https://docs.polymarket.com/trading/wallets-auth",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/trading/wallets-auth"
+  },
+  {
+    "url": "https://docs.polymarket.com/v2-migration",
+    "http_status": 200,
+    "final_url": "https://docs.polymarket.com/v2-migration"
+  },
+  {
+    "url": "https://github.com/Polymarket/py-sdk",
+    "http_status": 200,
+    "final_url": "https://github.com/Polymarket/py-sdk"
+  }
+]

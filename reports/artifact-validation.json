@@ -1,0 +1,16 @@
+{
+  "at": "2026-09-04T23:56:27.745061+00:00",
+  "local_links_checked": 40,
+  "python_snippets_parsed": 8,
+  "artifact_files_scanned": 33,
+  "source_manifest_entries": 55,
+  "offline_tests": 40,
+  "offline_test_failures": 0,
+  "audit_counts": {
+    "PASS": 122,
+    "FAIL": 6,
+    "SKIP": 2,
+    "OBSERVATION": 6
+  },
+  "errors": []
+}

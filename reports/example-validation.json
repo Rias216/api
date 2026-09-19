@@ -1,0 +1,7 @@
+{
+  "kalshi_preview_schema_valid": true,
+  "preview_cli_exit_code": 0,
+  "order_submitted": false,
+  "public_example": "executed successfully",
+  "authenticated_example": "executed successfully with --derive-existing"
+}

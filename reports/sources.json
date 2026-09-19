@@ -1,0 +1,442 @@
+[
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/llms.txt",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:27.751772+00:00",
+    "sha256": "13b622bc51d72f184c354ffbd0f643b956b947c41f82c8c4d22c8cf8255ed3db",
+    "bytes": 13101
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/api-spec/gamma-openapi.yaml",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:27.983647+00:00",
+    "sha256": "02d14aa0ad0b958fdb41b06b777136aa4cf2f50dbbb5f29e41cabfe051cfc000",
+    "bytes": 82945
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/api-spec/clob-openapi.yaml",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:27.950433+00:00",
+    "sha256": "82529177635db366c31a08777355b4b95c392a427298c3ba68904b937d4594da",
+    "bytes": 215862
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/api-spec/data-openapi.yaml",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:27.978370+00:00",
+    "sha256": "9d5d62b302bced648b7212e6e8c589a741b258d38bb8769a1cd57c5224ecc1fe",
+    "bytes": 63169
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/asyncapi.json",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:28.137044+00:00",
+    "sha256": "c5b556cf140725ef72803e1e5e2d8afc5cc1cd4326abf004cf3809394de8aee1",
+    "bytes": 30024
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/asyncapi-user.json",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:28.333758+00:00",
+    "sha256": "d17d8e8f81c5d06446c6418fb4046a0e34b59ae1dfa97f3917313d0e2f90c021",
+    "bytes": 18583
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/getting-started/python.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:28.361350+00:00",
+    "sha256": "1ed34748416927792a35956e8a128db0430f2a8a0dad19e4d54dafbb978c3f91",
+    "bytes": 10523
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/getting-started/migrate-from-previous-sdks.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:28.631670+00:00",
+    "sha256": "7f35be1847b3f399e8bea8fedc9846f7a7b882aa9cd775a6f5740881a526eff9",
+    "bytes": 60918
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/trading/wallets-auth.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:28.544856+00:00",
+    "sha256": "bd16933a33ff6d3999cc551e6b3e3663480e7064f8e5eec86e72772907596e44",
+    "bytes": 54438
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/trading/place-orders.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:28.703480+00:00",
+    "sha256": "a3426c3ac3c04c96a4e988009cd6e603d22622a31e1b3c02a453ce3ac22d7563",
+    "bytes": 61459
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/trading/manage-orders.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:28.718085+00:00",
+    "sha256": "410b6ea2854cf9731086bc4adabf626c00313d2e0d63fdc096447f71af5a24b9",
+    "bytes": 52662
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/trading/fees.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:28.892961+00:00",
+    "sha256": "8e246189f6ca85b8b8782e1d76a769cf98672a98c4c63d8bbe6150d659db8d7c",
+    "bytes": 8128
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/trading/matching-engine.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:28.980581+00:00",
+    "sha256": "f0d718b69509593654cb0085bb94fb96447c9b8d5ece6ddb990003d1e1f6f36c",
+    "bytes": 6864
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/trading/positions/manage.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:29.059212+00:00",
+    "sha256": "5afcfb094e4199a4ab2157deaeabd038b2e688c353273e8ccc78005b2341964d",
+    "bytes": 26770
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/market-data/discover-markets.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:29.243879+00:00",
+    "sha256": "a56c4ab8034eec5e8a0291fe3e0d728aa506f445a801b9ebd8bcaf3c71e68d4d",
+    "bytes": 52695
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/market-data/realtime-data.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:29.247595+00:00",
+    "sha256": "59a5ef9e6f63bab5af0fc6e31dde4948cdd54d92349d3aeca4046c12bf22db14",
+    "bytes": 68620
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/concepts/pusd.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:29.349620+00:00",
+    "sha256": "251904563e9fa977844a99400fca72754564ddcf27a765b97deeaf446c3cf613",
+    "bytes": 5551
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/concepts/negative-risk.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:29.445475+00:00",
+    "sha256": "23f3a2fd0a81bcbdb3ba7ac17b450c7f197aa514a09c00a187a231bf21cde106",
+    "bytes": 3788
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/resources/error-codes.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:29.601428+00:00",
+    "sha256": "a0a93df3e5644349748692815cc9833319ccae3c829d218312df1a6771d08af3",
+    "bytes": 19541
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/api-reference/rate-limits.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:29.638559+00:00",
+    "sha256": "7ba9bdb5df4bfd12199349220dd3c0d0923f6fcc5352385d038ea4eb69ec051a",
+    "bytes": 4124
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/changelog/predictions.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:29.691622+00:00",
+    "sha256": "630e2f885b355a5a34dc1d0e09c2ac033ee83af4595ba283b217273e6f5ac73b",
+    "bytes": 23375
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/changelog/sdks.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:29.808960+00:00",
+    "sha256": "22cd00085261ffcca54d8a1f86f4a0e92fc297101af0227083030ae84dc7f1a6",
+    "bytes": 36662
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/trading/quickstart.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:29.953055+00:00",
+    "sha256": "71d827507ce700888e483580859dbfcba5978d82f182c3ddcb345297e07bcd46",
+    "bytes": 6532
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/trading/realtime-order-updates.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:29.999967+00:00",
+    "sha256": "b5fde86d9fd5c63f5148b55af5357bcaafd67d090e08f054a2b0774ffc55b741",
+    "bytes": 15782
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/api-reference/geoblock.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:30.039710+00:00",
+    "sha256": "958f291fddd597c684dc3b3decff5f4acee74c0f0dbac7b93f2218782950daab",
+    "bytes": 7218
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/llms.txt",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:30.079362+00:00",
+    "sha256": "8963f176cb3ee821dd4e0dff76ff4f49f1b2329d155845d43ad2c660528a107a",
+    "bytes": 50484
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/openapi.yaml",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:30.359619+00:00",
+    "sha256": "1aea311542d8587e386deb40f8384b0d8a6d996845a98ffa8119f1df0c3c234f",
+    "bytes": 336094
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/asyncapi.yaml",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:30.503887+00:00",
+    "sha256": "e6d163a464bd4ef35657c101142f79c290047657036e5de7870b26e359a6bc2c",
+    "bytes": 148456
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/getting_started/api_environments.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:30.469203+00:00",
+    "sha256": "73509a19902422f651f5b2d540d3e033e7c0633c082486cf364d5429bf631e48",
+    "bytes": 3509
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/getting_started/quick_start_authenticated_requests.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:30.579031+00:00",
+    "sha256": "cbd37219e5cf2c8cd6c9c76e326561fc0ef70e46e402e840a9d1d3095fccf044",
+    "bytes": 7665
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/getting_started/quick_start_websockets.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:30.783220+00:00",
+    "sha256": "ee3dc7fe991f52acc8d8a86c35e1c469b8459722ed2982b4a345140c4fbd522a",
+    "bytes": 18550
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/getting_started/rate_limits.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:30.835919+00:00",
+    "sha256": "c7fac04330544488f504533d96d7893652679e4898a5fc365f8d644c2401d32d",
+    "bytes": 11717
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/getting_started/pagination.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:30.920496+00:00",
+    "sha256": "a98a22ca4166c9dee0870a0aa7254fe908773585fe5f190c6aaea786b8f23c3b",
+    "bytes": 5294
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/getting_started/orderbook_responses.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:30.953172+00:00",
+    "sha256": "bb40a4b3df75841b1779058081fdbb1d7b830f8d170195fba4165ecbc606e43b",
+    "bytes": 8577
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/getting_started/fixed_point_migration.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:31.179653+00:00",
+    "sha256": "f2669602e88a6a42f92a1608775e90a6881de115d6539686d12b0e8f07d94a76",
+    "bytes": 5730
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/getting_started/order_direction.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:31.235926+00:00",
+    "sha256": "28456f0c8f3b12e2275cab60deead2169e165be92083d9c0de5dd5481232237b",
+    "bytes": 4783
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/getting_started/historical_data.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:31.282663+00:00",
+    "sha256": "5b414e53d560d723455bf0705bac1b8a3ad0c71da63aeb75ea78315f3612701d",
+    "bytes": 7694
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/getting_started/exchange_sharding.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:31.365717+00:00",
+    "sha256": "72a268921a1639ac519b3b6566f91759f14474de21d1276bd2c41b1a8ca82fc9",
+    "bytes": 7960
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/getting_started/fee_rounding.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:31.551854+00:00",
+    "sha256": "7591cf0fb277eaf8fac8aedaf1645e58b61dacb22b5fed20ba7d8ea9f76ffa22",
+    "bytes": 4041
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/getting_started/market_lifecycle.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:31.638635+00:00",
+    "sha256": "5f3f7c72eda96148fd543e516f506110998bc4a7d58877ec36bcb0454f2d2510",
+    "bytes": 7749
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/getting_started/maintenance_and_pauses.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:31.729094+00:00",
+    "sha256": "788b5a5e994f4c86b341a995f92d51fe997784ba06772f19c6dfe32e345037bf",
+    "bytes": 2731
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/getting_started/market_settlement.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:31.739309+00:00",
+    "sha256": "c8cdf6d9b09b2e76d9e25218ec2d109149b541360d8c10f2dc8a7fa5f23a54e6",
+    "bytes": 1106
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/api-reference/orders/create-order-v2.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:31.929633+00:00",
+    "sha256": "08ec4a3db3ff72c3a927f33e8da6e9a1069436fe0f032f99cc76eddddbc960c8",
+    "bytes": 12706
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/api-reference/orders/cancel-order-v2.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:32.017477+00:00",
+    "sha256": "0170dc2ed72d044f496e4515ed7ea0f5ca420b9571dcc1b8011e8bfb0924ae52",
+    "bytes": 7350
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/api-reference/orders/amend-order-v2.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:32.112219+00:00",
+    "sha256": "62782c7480a26efdbe11cc02223532ec3f76738bdc5ab383eec36a40c8996356",
+    "bytes": 11059
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/api-reference/market/get-markets.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:32.146141+00:00",
+    "sha256": "3e7b6d89d5afbb61258ac531600b5289aa2eab4481bd86f3260bf0778b13726f",
+    "bytes": 21312
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/api-reference/portfolio/get-balance.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:32.325677+00:00",
+    "sha256": "bd6dab0666430b9ad273fb9cf6fa039c45f4c963fd83075514b6dc7d87b47f0a",
+    "bytes": 7087
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/sdks/overview.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:32.453179+00:00",
+    "sha256": "4ec10c222cb969e8955db8c5159710b08e043d70a08c14af3687c4288645eb62",
+    "bytes": 1732
+  },
+  {
+    "venue": "kalshi",
+    "url": "https://docs.kalshi.com/changelog.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:26:32.506102+00:00",
+    "sha256": "8dc285e99d604083253718f9c54db972baacd659d0e161cfa7e1296baaed8ee2",
+    "bytes": 196886
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/api-reference/trading-rate-limits.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:40:23.130106+00:00",
+    "sha256": "18851dde8fdbc782bd04d56a6eeb36523fef030daf61e98874c5d5c94c508f69",
+    "bytes": 7729
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/market-data/market-details.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:40:23.505594+00:00",
+    "sha256": "6996afeeb98c76da4f983cca1d0256708600d213fbad41a62a17e3bef5f74e90",
+    "bytes": 31237
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/resources/contracts.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:40:23.891114+00:00",
+    "sha256": "ed59020bd28a24cbca9dbd2f92624a2a8ad7e403f0f08b6ff1529e33860c99a6",
+    "bytes": 7987
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/v2-migration.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:40:24.263111+00:00",
+    "sha256": "8dc52780b87a85faa22a030174cb28a2ee7bfd3c2797712527e3a83147452c7b",
+    "bytes": 25625
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/concepts/order-lifecycle.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:40:24.613629+00:00",
+    "sha256": "854236c2602d4268c72d61f3c568f85ffb3f5e58071486abe8c88cecde9d8e76",
+    "bytes": 8341
+  },
+  {
+    "venue": "polymarket",
+    "url": "https://docs.polymarket.com/concepts/resolution.md",
+    "http_status": 200,
+    "retrieved_at": "2026-09-04T23:40:25.094846+00:00",
+    "sha256": "83f04e4bc2caadf4bee9c51abc9df2a5c94e8e95a3c367ef39e386e81c00fec3",
+    "bytes": 7514
+  }
+]
